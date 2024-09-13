@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @levi-j-h
+- 👀 I’m interested in Problem Solving
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 📫 How to reach me: levijonahheiland@gmail.com
